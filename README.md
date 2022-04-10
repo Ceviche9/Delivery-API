@@ -1,4 +1,8 @@
-# Delivery-API
+<div align="center">
+  <h1>
+    📦 Delivery API
+  </h1>
+</div>
 
 ## 📃 About the project
 
